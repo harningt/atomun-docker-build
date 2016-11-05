@@ -1,4 +1,4 @@
-# VERSION latest
+# VERSION 0.1
 # AUTHOR:       Thomas Harning Jr <harningt@gmail.com>
 # DESCRIPTION:  Build image with necessities to build the Atomun components
 
