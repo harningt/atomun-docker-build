@@ -1,8 +1,8 @@
-# VERSION 0.1
+# VERSION 0.2
 # AUTHOR:       Thomas Harning Jr <harningt@gmail.com>
 # DESCRIPTION:  Build image with necessities to build the Atomun components
 
-FROM alpine:3.4
+FROM alpine:3.9
 MAINTAINER Thomas Harning Jr <harningt@gmail.com>
 
 # NOTE: Versions not hardcoded as it is unimportant for the atomun builds at the moment
